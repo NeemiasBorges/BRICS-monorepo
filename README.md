@@ -1,8 +1,8 @@
-**#  BRICS Collaboration Monorepo**
+## BRICS+ Collaboration Monorepo
 
 [English](README_EN.md) | [Portuguese](README_PT.md) | [Chinese](README_ZH.md)
 
-Welcome to the BRICS Collaboration Monorepo - a dynamic hub for innovative projects and resources connecting Brazil, Russia, India, China, and South Africa. Our mission is to catalyze cooperation, foster knowledge exchange, and drive technological advancement among these global emerging powers.
+Welcome to the BRICS+ Collaboration Monorepo - a dynamic hub for innovative projects and resources connecting Brazil, Russia, India, China, and South Africa. Our mission is to catalyze cooperation, foster knowledge exchange, and drive technological advancement among these global emerging powers.
 
 ## Repository Structure
 
@@ -11,7 +11,7 @@ Welcome to the BRICS Collaboration Monorepo - a dynamic hub for innovative proje
 - `/bharat`: 🇮🇳 Projects and resources specific to India/Bharat
 - `/china`: 🇨🇳 Projects and resources specific to China
 - `/south-africa`: 🇿🇦 Projects and resources specific to South Africa
-- `/shared`: Common projects and resources applicable to all BRICS nations
+- `/shared`: Common projects and resources applicable to all BRICS+ nations
 
 ## Key Focus Areas
 
@@ -61,7 +61,7 @@ To contribute to this repository, please refer to our [CONTRIBUTING.md](CONTRIBU
 
 ##  How to Contribute
 
-We welcome contributions from developers, researchers, policymakers, and enthusiasts from BRICS countries and beyond. Here's how you can get involved:
+We welcome contributions from developers, researchers, policymakers, and enthusiasts from BRICS+ countries and beyond. Here's how you can get involved:
 
 1. **Fork the Repository**: Create your own copy of the project to work on.
 2. **Choose a Focus Area**: Select a project area or resource that aligns with your expertise and interests.
@@ -69,7 +69,7 @@ We welcome contributions from developers, researchers, policymakers, and enthusi
 4. **Develop Your Contribution**: Add your code, documentation, or resources.
 5. **Submit a Pull Request**: Propose your changes for review and inclusion in the main project.
 6. **Participate in Discussion**: Engage in code reviews and discussions to refine your contribution.
-7. **Celebrate**: Once approved and merged, your work becomes part of the BRICS Collaboration Monorepo!
+7. **Celebrate**: Once approved and merged, your work becomes part of the BRICS+ Collaboration Monorepo!
 
 For more detailed information on our collaboration process, coding standards, and best practices, please refer to our [Collaboration Guide](COLLABORATION_GUIDE.md).
 
