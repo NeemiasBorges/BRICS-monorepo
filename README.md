@@ -2,7 +2,7 @@
 
 [English](README_EN.md) | [Portuguese](README_PT.md) | [Chinese](README_ZH.md)
 
-Welcome to the BRICS+ Collaboration Monorepo - a dynamic hub for innovative projects and resources connecting Brazil, Russia, India, China, and South Africa. Our mission is to catalyze cooperation, foster knowledge exchange, and drive technological advancement among these global emerging powers.
+Welcome to the BRICS+ Collaboration Monorepo - a dynamic hub for innovative projects and resources connecting Brazil, Russia, Bharat (India), China, South Africa, Iran, Egypt, Ethiopia, Saudi Arabia, and the United Arab Emirates. Our mission is to catalyze cooperation, foster knowledge exchange, and drive technological advancement among these emerging global powerhouses.
 
 ## Repository Structure
 
@@ -12,6 +12,12 @@ Welcome to the BRICS+ Collaboration Monorepo - a dynamic hub for innovative proj
 - `/china`: 🇨🇳 Projects and resources specific to China
 - `/south-africa`: 🇿🇦 Projects and resources specific to South Africa
 - `/shared`: Common projects and resources applicable to all BRICS+ nations
+- `/iran`: 🇮🇷 Iran-specific projects and resources
+- `/egypt`: 🇪🇬 Egypt-specific projects and resources
+- `/ethiopia`: 🇪🇹 Ethiopia-specific projects and resources
+- `/saudi-arabia`: 🇸🇦 Saudi Arabia-specific projects and resources
+- `/uae`: 🇦🇪 United Arab Emirates-specific projects and resources
+- `/shared`: 🤝 Cross-BRICS+ collaborative projects and resources
 
 ## Key Focus Areas
 
@@ -53,7 +59,30 @@ Welcome to the BRICS+ Collaboration Monorepo - a dynamic hub for innovative proj
 - South African National Treasury API: https://data.treasury.gov.za/
 - South African ID Validation API: https://www.gov.za/documents/population-register
 
-Remember to verify these links and check for any updated documentation or changes in API availability. Also, ensure compliance with each API's terms of service and usage policies.
+**Iran 🇮🇷**
+
+- Iran National Data Portal API: https://data.gov.ir/
+- Tehran Air Quality API: https://air.tehran.ir/
+
+**Egypt 🇪🇬**
+
+- Egypt Tourism Authority API: https://api.egypt.travel/
+- Central Bank of Egypt API: https://www.cbe.org.eg/en/EconomicResearch/Statistics/Pages/API.aspx
+
+**Ethiopia 🇪🇹**
+
+- Ethiopian Commodity Exchange API: https://www.ecx.com.et/Pages/API.aspx
+- National Bank of Ethiopia API: https://nbebank.com/api/
+
+**Saudi Arabia 🇸🇦**
+
+- Saudi Data Portal API: https://data.gov.sa/en/developer
+- Saudi Payments API: https://www.saudipayments.com/ar/node/264
+
+**United Arab Emirates 🇦🇪**
+
+- UAE Open Data Portal API: https://bayanat.ae/
+- Dubai Pulse API: https://www.dubaipulse.gov.ae/
 
 ## Getting Started
 
