@@ -29,9 +29,9 @@ This monorepo serves as a central hub for collaborative projects and resources r
 
 **Russia**
 
-Russian Central Bank API: https://www.cbr.ru/eng/development/
-Yandex Translate API: https://yandex.com/dev/translate/
-Russian Weather API: https://meteoinfo.ru/apiforecast
+- Russian Central Bank API: https://www.cbr.ru/eng/development/
+- Yandex Translate API: https://yandex.com/dev/translate/
+- Russian Weather API: https://meteoinfo.ru/apiforecast
 
 **India**
 
