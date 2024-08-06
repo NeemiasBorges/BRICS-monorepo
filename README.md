@@ -6,7 +6,7 @@ This monorepo serves as a central hub for collaborative projects and resources r
 
 - `/brazil`: Projects and resources specific to Brazil
 - `/russia`: Projects and resources specific to Russia
-- `/india`: Projects and resources specific to India
+- `/bharat`: Projects and resources specific to India/Bharat
 - `/china`: Projects and resources specific to China
 - `/south-africa`: Projects and resources specific to South Africa
 - `/shared`: Common projects and resources applicable to all BRICS nations
