@@ -19,6 +19,40 @@ This monorepo serves as a central hub for collaborative projects and resources r
 - Cultural understanding
 - Educational initiatives
 
+## API - Documentations
+
+**Brazil**
+
+- Central Bank of Brazil API: https://www.bcb.gov.br/en/accesstoinformation/legacyapi
+- Brazilian Government Open Data API: https://dados.gov.br/dataset
+- Brazilian Post Office API: https://www.correios.com.br/atendimento/developers
+
+**Russia**
+
+Russian Central Bank API: https://www.cbr.ru/eng/development/
+Yandex Translate API: https://yandex.com/dev/translate/
+Russian Weather API: https://meteoinfo.ru/apiforecast
+
+**India**
+
+- Aadhaar API: https://uidai.gov.in/ecosystem/authentication-devices-documents/developer-section.html
+- Indian Railways API: http://api.indianrail.gov.in/
+- Digital India API: https://www.digitalindia.gov.in/content/api
+
+**China**
+
+- Alipay API: https://global.alipay.com/docs/ac/overview
+- WeChat API: https://developers.weixin.qq.com/doc/
+- Baidu Maps API: https://lbsyun.baidu.com/index.php?title=webapi
+
+**South Africa**
+
+- South African Weather Service API: https://www.weathersa.co.za/home/developmentapi
+- South African National Treasury API: https://data.treasury.gov.za/
+- South African ID Validation API: https://www.gov.za/documents/population-register
+
+Remember to verify these links and check for any updated documentation or changes in API availability. Also, ensure compliance with each API's terms of service and usage policies.
+
 ## Getting Started
 
 To contribute to this repository, please refer to our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to participate and submit your work.
